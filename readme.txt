@@ -9,18 +9,19 @@ Stable tag: 1.1
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-POWr Twitter Feed lets you showcase all your twitter activity in a real-time feed!  Edit right in your web page!
+Showcase multiple Twitter accounts in a single feed!
 
 == Description ==
-POWr Twitter Feed is a free cloud-based application.  Create a POWr account to add, edit, and customize POWr Plugins right in your webpage.
+Showcase multiple Twitter accounts in a single feed!
 <br>
 <br>
-To use Twitter Feed, download and install the plugin, then add to your site as a widget or a shortcode in any post or page: **[powr-banner-slider]**
-
-<blockquote>
-= <a href='https://www.powr.io/plugins/twitter-feed'>Download</a>  |  <a href='http://www.powr.io/tutorials/how-to-add-twitter-feed-plugin-to-your-wordpress-site'>Install Help</a>  |  <a href='http://www.powr.io/knowledge-base'>Knowledge Base</a>  |  <a href='http://www.powr.io/plugins'>More from POWr</a> =
+POWr Twitter Feed is a free cloud-based plugin you can edit in your live web page.  Create a POWr account to access the entire <a href='https://www.powr.io/plugins'>plugin library</a>.
 <br>
-</blockquote>
+<br>
+First, download, install, and activate POWr Twitter Feed. Then drop the widget anywhere in your theme. Or add to a page/post with the POWr icon in the WP editor.
+<br>
+= <a href='http://www.powr.io/tutorials/how-to-add-twitter-feed-plugin-to-your-wordpress-site'>2 MINUTE INSTALL</a> =
+<br>
 
 = Free Features =
 * Create and add any feed to any site using @handles and #hashtags.
@@ -29,26 +30,27 @@ To use Twitter Feed, download and install the plugin, then add to your site as a
 * Built-in support for text in any language.
 * Mobile responsive design looks great on any device.
 <br>
-= Upgrade to POWr Premium ($2.99)/month and: =
+= Upgrade ($2.99)/mo and: =
 * Eliminate all POWr logos and watermarks
 * Advanced Display Controls - choose exact number of Tweets to be display.
 * Faster Updates - faster update times keep your content fresh.
-* Boost plugin load speeds
 * Receive premium POWr support
 * Support the development of other great plugins
 
 == Installation ==
-To install POWr Twitter Feed
-<br><br>
-1. Upload 'powr-twitter-feed.php' to the '/wp-content/plugins/' directory
+Download, install, and activate POWr Twitter Feed.
 <br>
-2. Activate the plugin through the 'Plugins' menu in WordPress
-<br><br>
-To add POWr Twitter Feed as a widget, go to **Appearance->Widgets**, and drag POWr Twitter Feed to where you'd like it to appear.
-<br><br>
-To add Twitter Feed within a post or a page, simply write the shortcode **[powr-twitter-feed label='MY LABEL']** (including the brackets) where you'd like your Twitter Feed to appear. Then visit your page!
-<br><br>
-Want a more detailed tutorial? Visit [How to add Twitter Feed to your Wordpress site](http://www.powr.io/tutorials/how-to-add-twitter-feed-plugin-to-your-wordpress-site)
+<br>
+Then drop the widget anywhere in your theme.
+<br>
+<br>
+Or add to a page/post with the POWr Icon in the WP text editor.
+<br>
+<br>
+Then visit your site to and click the settings icon to edit right in the page.
+<br>
+= <a href='http://www.powr.io/tutorials/how-to-add-twitter-feed-plugin-to-your-wordpress-site'>2 MINUTE INSTALL</a> =
+
 
 
 == Frequently Asked Questions ==
@@ -86,6 +88,9 @@ Improved SSL Support
 = 1.2 =
 Improved loading speed
 
+= 1.3 =
+Easily add POWr plugins right from the text editor.
+
 
 
 == Changelog ==
@@ -97,5 +102,8 @@ Improved loading speed
 
 = 1.2 =
 * Improved loading speed
+
+= 1.3 =
+Easily add POWr plugins right from the text editor.
 
 
