@@ -9,10 +9,10 @@ Stable tag: 1.1
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-Showcase multiple Twitter accounts in a single feed!
+Showcase any Twitter @handle or #hashtag!
 
 == Description ==
-Showcase multiple Twitter accounts in a single feed!
+Showcase any Twitter @handle or #hashtag!
 <br>
 <br>
 POWr Twitter Feed is a free cloud-based plugin you can edit in your live web page.  Create a POWr account to access the entire <a href='https://www.powr.io/plugins'>plugin library</a>.
@@ -36,6 +36,7 @@ First, download, install, and activate POWr Twitter Feed. Then drop the widget a
 * Enable plugin analytics to measure visitors and page views
 * Receive premium POWr support
 * Support the development of other great plugins
+
 
 
 == Installation ==
