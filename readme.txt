@@ -5,7 +5,7 @@ Donate link: http://powr.io/
 Tags: free, responsive design, easy, personalize, customize, optimize, sidebar, drag and drop, WYSIWYG, mobile responsive, twitter feed, twitter plugin, twitter widget, social media feed, social media plugin, live tweets, customizable twitter feed, mobile responsive, feed, tweet, embed twitter, social media, share, live feed, twitterfeed, twitter site, feed blog, post, repost, retweet, follow, realtime, twitter api, twitter timeline
 Requires at least: 3.0
 Tested up to: 4.1
-Stable tag: 1.1
+Stable tag: 1.4
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -93,6 +93,8 @@ Improved loading speed
 = 1.3 =
 Easily add POWr plugins right from the text editor.
 
+= 1.4 =
+Improved functionality within the wp text editor.
 
 
 == Changelog ==
@@ -107,5 +109,8 @@ Easily add POWr plugins right from the text editor.
 
 = 1.3 =
 Easily add POWr plugins right from the text editor.
+
+= 1.4 =
+Improved functionality within the wp text editor.
 
 
