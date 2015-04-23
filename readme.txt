@@ -4,7 +4,7 @@ Contributors: powr
 Donate link: http://powr.io/
 Tags: free, responsive design, easy, personalize, customize, optimize, sidebar, drag and drop, WYSIWYG, mobile responsive, twitter feed, twitter plugin, twitter widget, social media feed, social media plugin, live tweets, customizable twitter feed, mobile responsive, feed, tweet, embed twitter, social media, share, live feed, twitterfeed, twitter site, feed blog, post, repost, retweet, follow, realtime, twitter api, twitter timeline
 Requires at least: 3.0
-Tested up to: 4.1
+Tested up to: 4.2
 Stable tag: 1.4
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
@@ -29,6 +29,7 @@ First, download, install, and activate POWr Twitter Feed. Then drop the widget a
 * Built-in support for text in any language.
 * Mobile responsive design looks great on any device.
 <br>
+
 = Upgrade ($2.99)/mo and: =
 * Eliminate all POWr logos and watermarks
 * Advanced Display Controls - choose exact number of Tweets to be display.
