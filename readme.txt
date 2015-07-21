@@ -23,17 +23,21 @@ First, download, install, and activate POWr Twitter Feed. Then drop the widget a
 = <a href='http://www.powr.io/tutorials/how-to-add-twitter-feed-plugin-to-your-wordpress-site'>2 MINUTE INSTALL</a> =
 <br>
 = Free Features =
-* Create and add any feed to any site using @handles and #hashtags.
-* Choose from expert-designed templates or customize fonts, colors, backgrounds, and more.
-* Easy-to-use design tools let you customize size and spacing of your feed.
-* Built-in support for text in any language.
+* Display posts from any Twitter feeds.
+* Adjust the priority for different feeds to display your favorite content.
+* Follow any @handles or #hashtags.
+* Content updates every 60 minutes.
+* Use expert templates or customize from scratch.
+* Custom fonts, colors, borders, backgrounds, and spacing.
+* Display text in any language.
 * Mobile responsive design looks great on any device.
 <br>
 
 = Upgrade ($2.99)/mo and: =
 * Eliminate all POWr logos and watermarks
-* Advanced Display Controls - choose exact number of Tweets to be display.
-* Faster Updates - faster update times keep your content fresh.
+* Follow up to 5 accounts
+* Content updates every 20 minutes
+* Adjust number of Tweets
 * Enable plugin analytics to measure visitors and page views
 * Receive premium POWr support
 * Support the development of other great plugins
